@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Administrator">
+
+    <Button
+        android:id="@+id/add_rmv_std"
+        android:layout_width="378dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="288dp"
+        android:text="Add / Remove Student"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.484"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="TextContrastCheck" />
+
+    <Button
+        android:id="@+id/add_rmv_fac"
+        android:layout_width="378dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="60dp"
+        android:text="Add / Remove Faculty"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.515"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/add_rmv_std"
+        tools:ignore="TextContrastCheck" />
+
+    <Button
+        android:id="@+id/create_attendence"
+        android:layout_width="378dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="56dp"
+        android:text="Create Attendence"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.484"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/add_rmv_fac"
+        tools:ignore="TextContrastCheck" />
+
+    <Button
+        android:id="@+id/attendence_record"
+        android:layout_width="378dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="60dp"
+        android:text="Check Attendence Record"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.484"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/create_attendence"
+        tools:ignore="TextContrastCheck" />
+</androidx.constraintlayout.widget.ConstraintLayout>

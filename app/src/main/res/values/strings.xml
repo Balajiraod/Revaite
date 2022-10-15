@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Revaite</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="date_selection">date_selection</string>
+    <string name="period_name">period</string>
+
+    <string-array name="period">
+        <item>Mobile App Development</item>
+        <item>Web Development</item>
+        <item>.NET using C#</item>
+        <item>Cyber Security</item>
+        <item>Soft Skills</item>
+        <item>Carrer Planning and Development</item>
+    </string-array>
+
+    <string name="done">done</string>
+    <string name="scroll">scroll</string>
+</resources>

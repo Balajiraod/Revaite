@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "917312011217",
+    "project_id": "revaite-3f7ec",
+    "storage_bucket": "revaite-3f7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917312011217:android:fb68fe212f8ef5fd0bbef0",
+        "android_client_info": {
+          "package_name": "com.example.revaite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917312011217-tb14koj3aqdl5keir20to1hq6to3q89t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCumHq_hi2pU67UTwLbHGXfwOuGCKkh-YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917312011217-tb14koj3aqdl5keir20to1hq6to3q89t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917312011217:android:028388c99fa98dd60bbef0",
+        "android_client_info": {
+          "package_name": "com.revauniversity.revaite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917312011217-tb14koj3aqdl5keir20to1hq6to3q89t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCumHq_hi2pU67UTwLbHGXfwOuGCKkh-YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917312011217-tb14koj3aqdl5keir20to1hq6to3q89t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
