@@ -33,10 +33,11 @@
             android:exported="false" />
         <activity
             android:name=".add_rmv_student"
-            android:exported="false" />
-        <activity
+            android:parentActivityName=".Administrator"
+            android:exported="true" />
+        <activityreva
             android:name=".Administrator"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".Login"
             android:exported="false" />

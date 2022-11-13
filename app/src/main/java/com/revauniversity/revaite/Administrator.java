@@ -18,6 +18,7 @@ public class Administrator extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_administrator);
 
+
         Button add_rmv_student = (Button) findViewById(R.id.add_rmv_std);
         Button createAttendence = (Button) findViewById(R.id.create_attendence);
 
